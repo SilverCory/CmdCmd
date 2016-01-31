@@ -1,0 +1,10 @@
+
+name: CmdCmd
+
+author: Cory Redmond
+
+version: ${pom.version}-B#${env.BUILD_NUMBER}
+
+description: Allows creating command aliases.
+
+main: co.ryred.cmdcmd.CmdCmdPlugin
